@@ -8,7 +8,7 @@
 Package should be installed through composer:
 
 ```bash
-composer require mtcmedia/dhl-api 
+composer require ikarusnc/dhl-api 
 ```
 
 Package requires a php min version of 7.1, however it has has been developed and tested on php 7.2.*  
@@ -46,8 +46,6 @@ v2.x - uses Shipment API v10.0
 Please see [CONTRIBUTING](contributing.md) for details.
 
 ### Security
-
-If you discover any security-related issues, please email [opensource@mtcmedia.co.uk](mailto:opensource@mtcmedia.co.uk) instead of using the issue tracker.
 
 ## License
 
