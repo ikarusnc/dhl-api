@@ -1,6 +1,7 @@
 {
-    "name": "mtcmedia/dhl-api",
+    "name": "ikarusnc/dhl-api",
     "description": "PHP library to communicate with the DHL XML Services.",
+    "version": "2.0.1",
     "require": {
         "php": ">=7.1",
         "ext-xmlwriter": "*",
